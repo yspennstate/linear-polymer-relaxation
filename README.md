@@ -32,7 +32,7 @@ $$
 
 where `lambda_G` is the one-particle graph gap and `eta_1` is an explicitly defined radial reaction eigenvalue. The paper gives sharp estimates and critical limits for both reaction eigenvalues. It also treats bounded inhomogeneous reactions, directed permutation motion, a stationary circulation on the original polymer reaction graph, and reversible changes of the coagulation kernel.
 
-The graph model retains globally count-dependent reaction rates. General spatial coagulation–fragmentation equations and unrestricted nonconstant kernels are outside the proved results. Earlier results, including the classical Ewens multiplicative-kernel spectrum, are attributed in the paper.
+The graph model retains globally count-dependent reaction rates. General spatial coagulation–fragmentation equations and unrestricted nonconstant kernels are outside the proved results.
 
 ## Reproduce the calculations
 

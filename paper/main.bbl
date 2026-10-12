@@ -30,7 +30,8 @@ A.~D. Barbour, Graham Brightwell, and Malwina Luczak, \emph{Long-term
 
 \bibitem{BBL2026}
 \bysame, \emph{Convergence to equilibrium for density dependent {Markov} jump
-  processes}, Electronic Journal of Probability \textbf{31} (2026), no.~104.
+  processes}, Electronic Journal of Probability \textbf{31} (2026), no.~104,
+  1--37.
 
 \bibitem{BerestyckiPitman2007}
 Nathana{\"e}l Berestycki and Jim Pitman, \emph{{Gibbs} distributions for random
@@ -78,12 +79,6 @@ Yuval Filmus, \emph{An orthogonal basis for functions over a slice of the
   {Boolean} hypercube}, Electronic Journal of Combinatorics \textbf{23} (2016),
   no.~1, P1.23, 27 pp.
 
-\bibitem{GranovskyZeifman2005}
-B.~L. Granovsky and A.~I. Zeifman, \emph{On the lower bound of the spectrum of
-  some mean-field models}, Theory of Probability and Its Applications
-  \textbf{49} (2005), no.~1, 148--155, English translation of the Russian
-  original in Teoriya Veroyatnostei i ee Primeneniya 49(1), 164--171 (2004).
-
 \bibitem{GranovskyErlihson2009}
 Boris~L. Granovsky and Michael~M. Erlihson, \emph{On time dynamics of
   coagulation-fragmentation processes}, Journal of Statistical Physics
@@ -93,6 +88,12 @@ Boris~L. Granovsky and Michael~M. Erlihson, \emph{On time dynamics of
 Boris~L. Granovsky and A.~I. Zeifman, \emph{The {$N$}-limit of spectral gap of
   a class of birth--death {Markov} chains}, Applied Stochastic Models in
   Business and Industry \textbf{16} (2000), no.~4, 235--248.
+
+\bibitem{GranovskyZeifman2005}
+\bysame, \emph{On the lower bound of the spectrum of some mean-field models},
+  Theory of Probability and Its Applications \textbf{49} (2005), no.~1,
+  148--155, English translation of the Russian original in Teoriya
+  Veroyatnostei i ee Primeneniya 49(1), 164--171 (2004).
 
 \bibitem{HozeHolcman2018}
 Nathanael Hoze and David Holcman, \emph{Stochastic coagulation-fragmentation
